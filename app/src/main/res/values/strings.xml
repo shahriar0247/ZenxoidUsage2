@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">App Usage Monitor</string>
+    <string name="title_activity_1">Activity1</string>
+
+
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">This week</string>
+    <string name="tab_text_3">This month</string>
+    <string name="tab_text_4">This year</string>
+    <string name="tab_text_5">Max</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
